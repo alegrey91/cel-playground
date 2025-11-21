@@ -2,3 +2,4 @@
 bin/
 *.out
 web/assets/main.wasm.gz
+web/assets/examples/
